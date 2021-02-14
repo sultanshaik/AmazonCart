@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-color: #eaeded;
 }
 
 .App-Header {
@@ -7,4 +8,21 @@ body {
   display: flex;
   color: white;
   justify-content: center;
+}
+
+.App-main {
+  display: flex;
+  padding: 15px 18px 0 18px;
+}
+
+.Shopping-Main {
+  height: 300px;
+  background-color: red;
+  flex-grow: 0.7;
+  margin-right: 18px;
+}
+.Cart-Total {
+  height: 300px;
+  background-color: blue;
+  flex-grow: 0.3;
 }

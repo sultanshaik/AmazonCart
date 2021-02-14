@@ -1,8 +1,16 @@
-import React from "react";
+import React, { Fragment } from "react";
 import "./style.css";
 
-import Header from "./header";
+import { Header, ShoppingCart, CartTotal } from "./components";
 
 export default function App() {
-  return <Header header="Amazon Cart" />;
+  return (
+    <Fragment>
+      <Header header="Amazon Cart" />
+      <div className="App-main">
+        <ShoppingCart />
+        <CartTotal />
+      </div>
+    </Fragment>
+  );
 }
