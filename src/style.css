@@ -20,13 +20,12 @@ h1{
 }
 
 .Shopping-Main {
-  height: 300px;
   background-color: white;
   flex-grow: 0.7;
   margin-right: 18px;
 }
 .Cart-Total {
-  height: 300px;
+  height: 100px;
   background-color: white;
   flex-grow: 0.3;
   display: flex;
@@ -41,6 +40,7 @@ h1{
 
 .CartItem {
   display: flex;
+  margin: 30px 0px;
 }
 
 .Product-Image {
