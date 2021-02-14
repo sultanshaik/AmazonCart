@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+.App-Header {
+  background-color: #0a2546;
+  display: flex;
+  color: white;
+  justify-content: center;
+}
