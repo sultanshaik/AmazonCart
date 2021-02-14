@@ -5,7 +5,7 @@ function CartItem(props) {
   return (
     <div className="CartItem">
       <div className="Product-Image">
-        <img src="https://images.samsung.com/is/image/samsung/assets/ph/p6_gro2/p6_initial_pcd/p6_initial_mobile/ph-pcd-galaxy-m20.png?$ORIGIN_PNG$" />
+        <img src="../images/samsung.jpeg" />
       </div>
       <div className="CartItem-info">
         <div className="info-title">
