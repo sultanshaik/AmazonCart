@@ -1,7 +1,7 @@
 import React from "react";
 
 function CartItem(props) {
-  const { imageSource , price, quantity } = props;
+  const { imageSource , price, quantity, name} = props;
 
   const getOptions=()=>{
     let arr = [];
@@ -19,7 +19,7 @@ function CartItem(props) {
       </div>
       <div className="CartItem-info">
         <div className="info-title">
-          <h2>Cell Phone</h2>
+          <h2>{name}</h2>
           <div className="info-stock">In Stock </div>
           <div className="item-actions">
             <div className="item-quantity" />
