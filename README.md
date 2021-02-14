@@ -1,3 +1,1 @@
-# amazoncart
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/amazoncart)
+A Simple Amazon Cart functionality
