@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AmazonCart/static/css/main.e85a03e4.chunk.css",
+    "main.js": "/AmazonCart/static/js/main.ed896569.chunk.js",
+    "main.js.map": "/AmazonCart/static/js/main.ed896569.chunk.js.map",
+    "runtime-main.js": "/AmazonCart/static/js/runtime-main.385f579b.js",
+    "runtime-main.js.map": "/AmazonCart/static/js/runtime-main.385f579b.js.map",
+    "static/js/2.2f13b272.chunk.js": "/AmazonCart/static/js/2.2f13b272.chunk.js",
+    "static/js/2.2f13b272.chunk.js.map": "/AmazonCart/static/js/2.2f13b272.chunk.js.map",
+    "index.html": "/AmazonCart/index.html",
+    "static/css/main.e85a03e4.chunk.css.map": "/AmazonCart/static/css/main.e85a03e4.chunk.css.map",
+    "static/js/2.2f13b272.chunk.js.LICENSE.txt": "/AmazonCart/static/js/2.2f13b272.chunk.js.LICENSE.txt",
+    "static/media/earphone.35498be7.jpg": "/AmazonCart/static/media/earphone.35498be7.jpg",
+    "static/media/expresso.5fa400e3.jpg": "/AmazonCart/static/media/expresso.5fa400e3.jpg",
+    "static/media/samsung.da94f4cf.jpeg": "/AmazonCart/static/media/samsung.da94f4cf.jpeg",
+    "static/media/vrheadset.9618b219.jpg": "/AmazonCart/static/media/vrheadset.9618b219.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.385f579b.js",
+    "static/js/2.2f13b272.chunk.js",
+    "static/css/main.e85a03e4.chunk.css",
+    "static/js/main.ed896569.chunk.js"
+  ]
+}
